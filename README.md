@@ -1,7 +1,7 @@
 Advanced File Manager For Windows
 
     This is an advanced file manager which copies the files and folders
-    of required extension and size to a user defined relocated destination
+    of required extension and size to a user defined relocatable destination
     folder.
     
     The main motivation for such a file explorer is to find out quickly
@@ -10,6 +10,7 @@ Advanced File Manager For Windows
     directory or substring of the filename)
     
     
+
 ===========
 
 Advanced File Manager
