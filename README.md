@@ -5,9 +5,9 @@ Advanced File Manager For Windows
     folder.
     
     The main motivation for such a file explorer is to find out quickly
-    and access the files which you used way back with help of partailly 
-    attributes of it which you remember (like size or extension or 
-    directory or substring of the filename)
+    and access the files which you used way back with help of partial
+    attributes of it, which you remember(like size or extension or 
+    directory or substring of the filename).
     
     
 
